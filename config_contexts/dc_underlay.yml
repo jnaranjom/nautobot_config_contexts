@@ -1,6 +1,6 @@
 ---
 _metadata:
-  name: DC underlay
+  name: DC underlay attributes
   weight: 1000
   description: DC underlay attributes
   is_active: true
