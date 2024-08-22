@@ -8,7 +8,8 @@ _metadata:
   roles:
     - "datacenter:spine:switch"
     - "datacenter:leaf:switch"
-    
+
+router_id: Loopback0
 ospf:
   area: 0
   process_id: 1
