@@ -1,0 +1,13 @@
+---
+_metadata:
+  name: Global NTP Servers
+  weight: 2000
+  description: Global NTP Servers
+  is_active: true
+  config_context_schema: ""
+ntp:
+  servers:
+    - ip: 10.0.2.7
+      preferred: true
+    - ip: 10.0.2.8
+      preferred: false
