@@ -6,8 +6,8 @@ _metadata:
   is_active: true
   config_context_schema: ""
   roles:
-    - "datacenter:spine:switch"
-    - "datacenter:leaf:switch"
+    - name: "datacenter:spine:switch"
+    - name: "datacenter:leaf:switch"
 
 router_id: Loopback0
 ospf:
