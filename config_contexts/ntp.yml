@@ -8,6 +8,6 @@ _metadata:
 ntp:
   servers:
     - ip: 10.0.2.7
-      preferred: false
-    - ip: 10.0.2.8
       preferred: true
+    - ip: 10.0.2.8
+      preferred: false
